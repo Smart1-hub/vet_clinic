@@ -3,8 +3,8 @@
 CREATE TABLE animals (
     id SERIAL PRIMARY KEY,
     name varchar(100),
-    date_of_birth DATE,
-    escape_attempts INT,
-    neutered BOOLEAN,
-    weight_kg DECIMAL
+    date_of_birth date,
+    escape_attempts integer,
+    neutered boolean,
+    weight_kg decimal
 );
