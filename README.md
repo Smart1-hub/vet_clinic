@@ -1,6 +1,6 @@
 ## Vet-Clinic: DB
 
-This is a relational database to create the initial data structure for a vet clinic. Includes a table to store animals' information, insert some data into it, and query it.
+This is a relational database for a vet clinic. Transactions are used to update and delete records. Aggregate functions and GROUP BY are also used to answer analytical questions.
 
 
 ## Getting Started
@@ -38,4 +38,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/Smart1-hub/Smart Development/blob/add-license-1/LICENSE).
+This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/MIT.md)licensed.
