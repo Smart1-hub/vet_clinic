@@ -1,7 +1,6 @@
-# curriculum-databases-projects-template
+## Vet-Clinic: DB
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+This is a relational database to create the initial data structure for a vet clinic. Includes a table to store animals' information, insert some data into it, and query it.
 
 
 ## Getting Started
@@ -17,15 +16,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Smart1-hub](https://github.com/Smart1-hub)
+- Twitter: [@ademola_adebayo](https://twitter.com/ademola_adebayo)
+- LinkedIn: [Ademola-Adebayo](https://www.linkedin.com/in/ademola-adebayo/)
 
 ## 🤝 Contributing
 
@@ -45,4 +38,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/Smart1-hub/Smart Development/blob/add-license-1/LICENSE).
