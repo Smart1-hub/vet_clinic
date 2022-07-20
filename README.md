@@ -1,6 +1,6 @@
 ## Vet-Clinic: DB
 
-This is a relational database to create the initial data structure for a vet clinic. Includes a table to store animals' information, insert some data into it, and query it.
+This is a relational database for a vet clinic. Some new tables and foreign key columns are added to the existing animals table to model one-to-many relationships. Afterward, JOIN is used to query the data.
 
 
 ## Getting Started
