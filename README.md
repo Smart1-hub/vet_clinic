@@ -1,6 +1,6 @@
 ## Vet-Clinic: DB
 
-This is a relational database for a vet clinic. Transactions are used to update and delete records. Aggregate functions and GROUP BY are also used to answer analytical questions.
+This project is a relational database for a vet clinic. Some new tables and foreign key columns are added to the existing animals table to model one-to-many relationships. Afterward, JOIN is used to query the data.
 
 
 ## Getting Started
